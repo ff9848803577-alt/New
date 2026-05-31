@@ -1,0 +1,22 @@
+#WAP to input eight  number 1s from user and display the unique number 1s(once)
+
+s = set()
+
+n = input("Enter the number 1:")
+s.add(int(n))
+n = input("Enter the number 2:")
+s.add(int(n))
+n =input("Enter the number 3:")
+s.add(int(n))
+n =input("Enter the number 4:")
+s.add(int(n))
+n =input("Enter the number 5:")
+s.add(int(n))
+n =input("Enter the number 6:")
+s.add(int(n))
+n =input("Enter the number 7:")
+s.add(int(n))
+n =input("Enter the number 8:")
+s.add(int(n))
+
+print(s)
