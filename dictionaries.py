@@ -23,3 +23,5 @@ marks = {
 print(marks)
 print(marks["Bikki"])
 
+a = {} # this is empty dictionary 
+
