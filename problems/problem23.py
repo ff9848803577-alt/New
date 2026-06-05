@@ -1,4 +1,4 @@
-# WAP to greet  al the person name stored in a list "l" which starts with S
+# WAP to greet  all the person name stored in a list "l" which starts with S
 
 l = ["Bikki", "Santosh", "Sandesh", "Rohan"]
 

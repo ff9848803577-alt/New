@@ -26,4 +26,4 @@ print("marks of stundents in sorted order:", sorted(marks))
 
 print(marks)
 #this will show as it is without sorted order
->>>>>>> b1c4864af82c4cd4f529e427583de0794ba7099b
+
